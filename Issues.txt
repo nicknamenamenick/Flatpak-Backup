@@ -1,6 +1,0 @@
-Issues:
-
-- User should be able to select each package individually, or all at once
-- Filepath only works for silverblue so far (~/.var/app doesn't work)
-- .tar file should be user selectable (just goes in /home/ right now)
-- probably shouldn't be a .tar format anyways
