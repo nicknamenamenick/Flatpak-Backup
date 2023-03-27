@@ -1,6 +1,0 @@
-- Download flatpaks from a text file... read each row for every application
-flatpak install [package] <-- line 1 on packages.txt
-
-ex: xargs -a packages2.txt flatpak install
-
-- Backup userdata in ~/.var/app/	
