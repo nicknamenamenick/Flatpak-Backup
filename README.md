@@ -3,5 +3,5 @@ WIP!  DO NOT USE!  NOT READY!  Backup your currently installed flatpak applicati
 
 Special thanks to:
 
-astra
+astra and
 zkade0
